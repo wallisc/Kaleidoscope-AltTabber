@@ -2,7 +2,7 @@
  
 This plugin will overrides certain key functions when the left-alt is held. 
 
-This is primarily to designed for fast alt-tabbing when the left-alt key is mapped to a thumb key.
+This is primarily to designed for ambidextrous fast alt-tabbing when the left-alt key is mapped to a thumb key.
 
 
 The following keys are remapped:
