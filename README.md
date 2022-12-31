@@ -14,7 +14,7 @@ The following keys are remapped:
  2. Copy the contents of the Src directory into the plugin folder using either git clone or just using the "Clone or download" button from GitHub
  3. Add the plugin to your sketch by adding the include and initializing the plugin.
 ````
-	#include "kaleidoscope/plugin/AltTabber.h"
-	
-	KALEIDOSCOPE_INIT_PLUGINS(AltTabber);
+#include "kaleidoscope/plugin/AltTabber.h"
+
+KALEIDOSCOPE_INIT_PLUGINS(AltTabber);
 ````
